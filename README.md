@@ -1,2 +1,2 @@
 # NodeWeather
-NodeJS application to get the current weather conditions of a certain zip code
+NodeJS application to get the current weather conditions of a certain zip code using OpenWeatherMap API.
